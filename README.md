@@ -7,7 +7,7 @@ One of the basic principles of journalism is impartiality, but in practice this 
 
 ## Installation
 
-Please visit site [here](https://aimeedarling.github.io/GBN/) and visit the repo [here](https://github.com/aimeedarling/GBN)
+Please visit site [here](https://mastalukeremix.github.io/GBN/) and visit the repo [here](https://github.com/mastalukeremix/GBN)
 
 ## Usage
 
